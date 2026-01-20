@@ -1,74 +1,45 @@
-# App Store Privacy Policy
+# Privacy Policy
 
-A clean, professional privacy policy page hosted on GitHub Pages for App Store app compliance.
+**Last updated:** January 20, 2026
 
-## 🔗 Live Privacy Policy
+## Introduction
 
-Your privacy policy will be available at: `https://[your-username].github.io/ssreadprivacy/`
+This Privacy Policy describes how our mobile application ("we," "us," or "our") handles your information when you use our AI-powered app. We are committed to protecting your privacy and being transparent about our data practices.
 
-## 📱 App Store Compliance
+## Information We Collect
 
-This privacy policy template is designed to meet Apple App Store requirements:
+**We do not record, store, or save any of your personal data on our servers.** Our app operates with a privacy-first approach:
 
-- ✅ Clear and accessible privacy policy
-- ✅ Describes data collection practices
-- ✅ Explains how user data is used
-- ✅ Professional presentation
-- ✅ Mobile-responsive design
+- We do not store your conversations or queries
+- We do not collect personal information such as names, email addresses, or phone numbers
+- We do not track your location or device information
+- No user accounts or profiles are created
 
-## 🚀 Setup Instructions
+## How We Use Your Information
 
-1. **Customize the Privacy Policy**
-   - Edit `index.html` to include your app's specific information
-   - Replace placeholders like `[Your App Name]` and `[your-email@example.com]`
-   - Update data collection and usage descriptions
+Since we do not store any personal data, there is no information for us to use, analyze, or process on our end. Your interactions with the app are processed in real-time to provide AI responses and are not retained.
 
-2. **Enable GitHub Pages**
-   - Go to your repository Settings
-   - Scroll down to "Pages" section
-   - Select "Deploy from a branch"
-   - Choose "main" branch and "/ (root)" folder
-   - Click Save
+## Data Sharing
 
-3. **Add to App Store Connect**
-   - Copy the GitHub Pages URL
-   - Paste it in the "Privacy Policy URL" field in App Store Connect
+**OpenAI Integration:** When you ask questions or make requests to our AI, your queries are sent to OpenAI's servers to generate responses. This is necessary for the app to function. OpenAI has their own privacy policy governing how they handle this data.
 
-## 📝 Customization
+We do not share, sell, or trade any personal information with third parties beyond this necessary AI processing. No personal data is stored or shared by us.
 
-### Required Updates
-- **App Name**: Replace `[Your App Name]` with your actual app name
-- **Contact Information**: Add your email and company address
-- **Data Collection**: Specify what data your app collects
-- **Data Usage**: Explain how you use collected data
+## Data Security
 
-### Optional Enhancements
-- Add your company logo
-- Include additional legal sections as needed
-- Customize colors and styling to match your brand
+We implement appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.
 
-## 📄 File Structure
+## Children's Privacy
 
-```
-ssreadprivacy/
-├── index.html          # Main privacy policy page
-├── README.md           # This file
-└── .github/
-    └── copilot-instructions.md
-```
+Our app does not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
 
-## 🎨 Styling
+## Changes to This Privacy Policy
 
-The privacy policy uses a clean, professional design with:
-- Responsive layout for mobile and desktop
-- Apple-inspired typography
-- Clean spacing and readable fonts
-- Professional color scheme
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
 
-## 📞 Support
+## Contact Us
 
-If you need help customizing this privacy policy for your specific app requirements, please review Apple's App Store guidelines for privacy policy requirements.
+If you have any questions about this Privacy Policy, please contact us:
 
----
-
-**Note**: This is a template. You must customize it with your app's actual privacy practices before submitting to the App Store.
+**Email:** mahamadalkhabir@gmail.com  
+**Address:** [Your Company Address]
