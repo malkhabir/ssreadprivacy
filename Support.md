@@ -10,7 +10,7 @@ If you’re experiencing issues, found a bug, or have a suggestion, you’re in 
 
 You can reach us directly by email:
 
-**Support Email:** mahamadalkhabir@gmail.com
+**Support Email:** readerplusplus@gmail.com
 
 When contacting support, please include:
 - Your device model
